@@ -1,0 +1,96 @@
+              PW 6470    CMONITOR AND REMOTE CONTROL SOFTWARE
+
+                                  READ.ME
+
+            Last-minute additions to the Operation Instructions
+
+                              Date: 30.03.87
+
+            ---------------------------------------------------
+
+
+
+1.  Support for Turbo Pascal, Version 4.0
+----------------------------------------
+
+    Due to late arrival of the new version from Borland it has not been
+    possible to incorporate the necessary changes into the source codes.
+
+    Interested users with a registered licence can request an updated copy
+    of the Remote Control Software from
+
+
+        Applications Laboratory Electron Optics
+        Philips Analytical
+        Building AAE
+        5600 MD Eindhoven
+        The Netherlands
+
+
+2.  Start-Up Problems on non-compatible Computers
+-------------------------------------------------
+
+    Some MS/DOS computers (e.g. the lap-top GRID) come with serial ports
+    which have first to be enabled by a system command, e.g.
+
+        MODE SERIAL=ON
+
+    This creates a problem as the Remote Control driver, RCM.SYS, which is
+    loaded by CONFIG.SYS, already tries to configure the serial port on
+    loading. When the port is enabled after this and a remote control
+    program (TUTOR or CMONITOR) is started the correct configuration is
+    missing.
+
+    A workaround is to toggle the ports COM1: and COM2: back and forth
+    before issuing a remote control command with the functions provided,
+    i.e.
+
+        Ctrl F1 in CMONITOR  (press 2 times), and
+        IOCtrl  in TUTOR     (invoke for COM2: and then for COM1:)
+
+    Using the TESTER program according to its own instructions also helps,
+    but has to be repeated each time when the computer is switched on.
+
+3.  Compatibility with different microscope control software versions
+    -----------------------------------------------------------------
+
+    CMONITOR, TUTOR, TESTER and user-programmed remote control programs
+    are compatible with all microscope control software versions from
+    1.1 onwards.
+    Please consider that we cannot guarantee that transfer of data which can
+    be read and restored is possible between the different control software
+    versions. It has however been found that, if an alignment data file has
+    been created under CM control software version 1.1, it can be restored
+    into the CM-instrument under control software version 1.2.
+
+4.  Support of Specimen Relocation System (PW 6458/00)
+    --------------------------------------------------
+
+    For the time being there are no specific commands available to control
+    the Specimen Relocation System (PW 6458/00). Remote control operation
+    should be implemented using the basic function of "Press Softkey" as
+    explained in TUTOR. Please keep in touch with Philips for obtaining
+    future information about it.
+
+5.  Corrections of the Instruction Manual
+    -------------------------------------
+
+    Page 40: const AlignmentSize = 5000;
+    Page 42: const ModSize       =  250;
+    Page 44: const StigmatorSize = 1500;
+    Page 65, line 4: Reference should be to chapter 7.5
+    Page 66: Delete last two lines beginning with "FFH :"
+    Page 79: Add two function id's:
+                 Ext XY Ctrl On    C79BH
+                 Ext XY Ctrl Off   C79DH
+
+
+6.  Retrieving alignment data
+    -------------------------
+
+    When alignment data are retrieved from a file in order to reset the
+    microscope to a former alignment state, the recovered setting only
+    get active when a "RESTART" or mode change command is given. This 
+    has to be considered in self-built programs.
+
+    CMONITOR contains a "Set to TEM mode"-command for this purpose.
