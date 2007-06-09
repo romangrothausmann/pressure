@@ -1,8 +1,801 @@
-# CM30 Pressure values from 9/6/2007
+# CM30 Pressure values from 8/6/2007
 #   time  P1  P2  P3 IGP
-#Equipment not available! 12:32:15
-#Equipment not available! 12:33:15
-#Equipment not available! 12:34:15
-#Equipment not available! 12:35:15
-#Equipment not available! 12:36:15
-#Equipment n
+19:01:18  37  67  43  32
+19:02:18  37  67  43  32
+19:03:19  38  67  43  31
+19:04:19  38  67  43  30
+19:05:19  38  68  43  29
+19:06:19  38  68  43  29
+19:07:20  38  68  43  29
+19:08:20  38  68  40  28
+19:09:20  38  68  40  27
+19:10:20  38  68  40  27
+19:11:21  31  28  40  26
+19:12:21  31  67  40  25
+19:13:21  31  68  40  25
+19:14:21  32  68  40  25
+19:15:22  33  68  40  24
+19:16:22  33  68  40  23
+19:17:22  33  69  40  23
+19:18:23  33  69  40  23
+19:19:23  34  69  40  22
+19:20:23  34  69  40  22
+19:21:23  35  69  40  21
+19:22:24  35  70  40  20
+19:23:24  35  70  40  20
+19:24:24  35  70  40  19
+19:25:24  36  70  40  19
+19:26:25  36  70  40  19
+19:27:25  37  70  40  19
+19:28:25  37  70  40  18
+19:29:25  37  70  40  17
+19:30:26  37  70  40  17
+19:31:26  37  70  40  17
+19:32:26  38  70  40  17
+19:33:26  38  70  40  17
+19:34:27  38  72  40  16
+19:35:27  38  72  40  16
+19:36:27  38  72  40  16
+19:37:27  38  72  40  16
+19:38:28  38  72  40  16
+19:39:28  38  72  40  15
+19:40:28  38  35  40  15
+19:41:29  30  57  40  15
+19:42:29  31  59  40  15
+19:43:29  31  61  40  15
+19:44:29  32  62  40  15
+19:45:30  33  63  40  15
+19:46:30  33  63  40  14
+19:47:30  33  64  40  14
+19:48:30  34  64  40  14
+19:49:31  34  64  40  14
+19:50:31  35  65  40  14
+19:51:31  35  65  40  14
+19:52:31  35  65  40  14
+19:53:32  35  66  40  13
+19:54:32  35  66  40  14
+19:55:32  36  66  40  13
+19:56:33  36  66  40  13
+19:57:33  37  66  40  13
+19:58:33  37  66  40  13
+19:59:33  37  66  40  13
+20:00:34  37  67  40  13
+20:01:34  37  67  40  13
+20:02:34  38  67  40  13
+20:03:34  38  67  40  13
+20:04:35  38  67  40  13
+20:05:35  38  67  40  13
+20:06:35  38  67  40  12
+20:07:36  38  68  40  13
+20:08:36  38  68  40  12
+20:09:36  38  68  40  12
+20:10:36  38  68  40  12
+20:11:37  31  26  38  12
+20:12:37  31  63  40  12
+20:13:37  31  64  40  12
+20:14:37  32  65  40  12
+20:15:38  33  65  40  11
+20:16:38  33  66  40  11
+20:17:38  33  66  40  11
+20:18:38  33  66  40  12
+20:19:39  34  66  40  12
+20:20:39  34  66  40  11
+20:21:39  35  67  40  11
+20:22:39  35  67  40  11
+20:23:40  35  67  40  11
+20:24:40  35  67  40  11
+20:25:40  36  67  40  11
+20:26:40  36  67  40  11
+20:27:41  37  68  40  11
+20:28:41  37  68  40  11
+20:29:41  37  68  40  11
+#Equipment not available! 20:30:41  37  68  40  11
+#Equipment not available! 20:31:41  37  68  40  11
+#Equipment not available! 20:32:57  37  68  40  11
+#Equipment not available! 20:34:13  37  68  40  11
+#Equipment not available! 20:35:29  37  68  40  11
+#Equipment not available! 20:36:45  37  68  40  11
+#Equipment not available! 20:38:00  37  68  40  11
+#Equipment not available! 20:39:16  37  68  40  11
+#Equipment not available! 20:40:32  37  68  40  11
+#Equipment not available! 20:41:48  37  68  40  11
+#Equipment not available! 20:43:04  37  68  40  11
+#Equipment not available! 20:44:19  37  68  40  11
+#Equipment not available! 20:45:35  37  68  40  11
+#Equipment not available! 20:46:51  37  68  40  11
+#Equipment not available! 20:48:07  37  68  40  11
+#Equipment not available! 20:49:23  37  68  40  11
+#Equipment not available! 20:50:38  37  68  40  11
+#Equipment not available! 20:51:54  37  68  40  11
+#Equipment not available! 20:53:10  37  68  40  11
+#Equipment not available! 20:54:26  37  68  40  11
+#Equipment not available! 20:55:42  37  68  40  11
+#Equipment not available! 20:56:57  37  68  40  11
+#Equipment not available! 20:58:13  37  68  40  11
+#Equipment not available! 20:59:29  37  68  40  11
+#Equipment not available! 21:00:45  37  68  40  11
+#Equipment not available! 21:02:01  37  68  40  11
+#Equipment not available! 21:03:16  37  68  40  11
+#Equipment not available! 21:04:32  37  68  40  11
+#Equipment not available! 21:05:48  37  68  40  11
+#Equipment not available! 21:07:04  37  68  40  11
+#Equipment not available! 21:08:20  37  68  40  11
+#Equipment not available! 21:09:35  37  68  40  11
+#Equipment not available! 21:10:51  37  68  40  11
+#Equipment not available! 21:12:07  37  68  40  11
+#Equipment not available! 21:13:23  37  68  40  11
+#Equipment not available! 21:14:39  37  68  40  11
+#Equipment not available! 21:15:54  37  68  40  11
+#Equipment not available! 21:17:10  37  68  40  11
+#Equipment not available! 21:18:26  37  68  40  11
+#Equipment not available! 21:19:42  37  68  40  11
+#Equipment not available! 21:20:58  37  68  40  11
+#Equipment not available! 21:22:13  37  68  40  11
+#Equipment not available! 21:23:29  37  68  40  11
+#Equipment not available! 21:24:45  37  68  40  11
+#Equipment not available! 21:26:01  37  68  40  11
+#Equipment not available! 21:27:16  37  68  40  11
+#Equipment not available! 21:28:32  37  68  40  11
+#Equipment not available! 21:29:48  37  68  40  11
+#Equipment not available! 21:31:04  37  68  40  11
+#Equipment not available! 21:32:20  37  68  40  11
+#Equipment not available! 21:33:35  37  68  40  11
+#Equipment not available! 21:34:51  37  68  40  11
+#Equipment not available! 21:36:07  37  68  40  11
+#Equipment not available! 21:37:23  37  68  40  11
+#Equipment not available! 21:38:39  37  68  40  11
+#Equipment not available! 21:39:54  37  68  40  11
+#Equipment not available! 21:41:10  37  68  40  11
+#Equipment not available! 21:42:26  37  68  40  11
+#Equipment not available! 21:43:42  37  68  40  11
+#Equipment not available! 21:44:58  37  68  40  11
+#Equipment not available! 21:46:13  37  68  40  11
+#Equipment not available! 21:47:29  37  68  40  11
+#Equipment not available! 21:48:45  37  68  40  11
+#Equipment not available! 21:50:01  37  68  40  11
+#Equipment not available! 21:51:17  37  68  40  11
+#Equipment not available! 21:52:32  37  68  40  11
+#Equipment not available! 21:53:48  37  68  40  11
+#Equipment not available! 21:55:04  37  68  40  11
+#Equipment not available! 21:56:20  37  68  40  11
+#Equipment not available! 21:57:36  37  68  40  11
+#Equipment not available! 21:58:51  37  68  40  11
+#Equipment not available! 22:00:07  37  68  40  11
+#Equipment not available! 22:01:23  37  68  40  11
+#Equipment not available! 22:02:39  37  68  40  11
+#Equipment not available! 22:03:55  37  68  40  11
+#Equipment not available! 22:05:10  37  68  40  11
+#Equipment not available! 22:06:26  37  68  40  11
+#Equipment not available! 22:07:42  37  68  40  11
+#Equipment not available! 22:08:58  37  68  40  11
+#Equipment not available! 22:10:14  37  68  40  11
+#Equipment not available! 22:11:29  37  68  40  11
+#Equipment not available! 22:12:45  37  68  40  11
+#Equipment not available! 22:14:01  37  68  40  11
+#Equipment not available! 22:15:17  37  68  40  11
+#Equipment not available! 22:16:33  37  68  40  11
+#Equipment not available! 22:17:48  37  68  40  11
+#Equipment not available! 22:19:04  37  68  40  11
+#Equipment not available! 22:20:20  37  68  40  11
+#Equipment not available! 22:21:36  37  68  40  11
+#Equipment not available! 22:22:52  37  68  40  11
+#Equipment not available! 22:24:07  37  68  40  11
+#Equipment not available! 22:25:23  37  68  40  11
+#Equipment not available! 22:26:39  37  68  40  11
+#Equipment not available! 22:27:55  37  68  40  11
+#Equipment not available! 22:29:11  37  68  40  11
+#Equipment not available! 22:30:26  37  68  40  11
+#Equipment not available! 22:31:42  37  68  40  11
+#Equipment not available! 22:32:58  37  68  40  11
+#Equipment not available! 22:34:14  37  68  40  11
+#Equipment not available! 22:35:30  37  68  40  11
+#Equipment not available! 22:36:45  37  68  40  11
+#Equipment not available! 22:38:01  37  68  40  11
+#Equipment not available! 22:39:17  37  68  40  11
+#Equipment not available! 22:40:33  37  68  40  11
+#Equipment not available! 22:41:49  37  68  40  11
+#Equipment not available! 22:43:04  37  68  40  11
+#Equipment not available! 22:44:20  37  68  40  11
+#Equipment not available! 22:45:36  37  68  40  11
+#Equipment not available! 22:46:52  37  68  40  11
+#Equipment not available! 22:48:08  37  68  40  11
+#Equipment not available! 22:49:23  37  68  40  11
+#Equipment not available! 22:50:39  37  68  40  11
+#Equipment not available! 22:51:55  37  68  40  11
+#Equipment not available! 22:53:11  37  68  40  11
+#Equipment not available! 22:54:27  37  68  40  11
+#Equipment not available! 22:55:42  37  68  40  11
+#Equipment not available! 22:56:58  37  68  40  11
+#Equipment not available! 22:58:14  37  68  40  11
+#Equipment not available! 22:59:30  37  68  40  11
+#Equipment not available! 23:00:45  37  68  40  11
+#Equipment not available! 23:02:01  37  68  40  11
+#Equipment not available! 23:03:17  37  68  40  11
+#Equipment not available! 23:04:33  37  68  40  11
+#Equipment not available! 23:05:49  37  68  40  11
+#Equipment not available! 23:07:04  37  68  40  11
+#Equipment not available! 23:08:20  37  68  40  11
+#Equipment not available! 23:09:36  37  68  40  11
+#Equipment not available! 23:10:52  37  68  40  11
+#Equipment not available! 23:12:08  37  68  40  11
+#Equipment not available! 23:13:23  37  68  40  11
+#Equipment not available! 23:14:39  37  68  40  11
+#Equipment not available! 23:15:55  37  68  40  11
+#Equipment not available! 23:17:11  37  68  40  11
+#Equipment not available! 23:18:27  37  68  40  11
+#Equipment not available! 23:19:42  37  68  40  11
+#Equipment not available! 23:20:58  37  68  40  11
+#Equipment not available! 23:22:14  37  68  40  11
+#Equipment not available! 23:23:30  37  68  40  11
+#Equipment not available! 23:24:46  37  68  40  11
+#Equipment not available! 23:26:01  37  68  40  11
+#Equipment not available! 23:27:17  37  68  40  11
+#Equipment not available! 23:28:33  37  68  40  11
+#Equipment not available! 23:29:49  37  68  40  11
+#Equipment not available! 23:31:05  37  68  40  11
+#Equipment not available! 23:32:20  37  68  40  11
+#Equipment not available! 23:33:36  37  68  40  11
+#Equipment not available! 23:34:52  37  68  40  11
+#Equipment not available! 23:36:08  37  68  40  11
+#Equipment not available! 23:37:24  37  68  40  11
+#Equipment not available! 23:38:39  37  68  40  11
+#Equipment not available! 23:39:55  37  68  40  11
+#Equipment not available! 23:41:11  37  68  40  11
+#Equipment not available! 23:42:27  37  68  40  11
+#Equipment not available! 23:43:43  37  68  40  11
+#Equipment not available! 23:44:58  37  68  40  11
+#Equipment not available! 23:46:14  37  68  40  11
+#Equipment not available! 23:47:30  37  68  40  11
+#Equipment not available! 23:48:46  37  68  40  11
+#Equipment not available! 23:50:02  37  68  40  11
+#Equipment not available! 23:51:17  37  68  40  11
+#Equipment not available! 23:52:33  37  68  40  11
+#Equipment not available! 23:53:49  37  68  40  11
+#Equipment not available! 23:55:05  37  68  40  11
+#Equipment not available! 23:56:21  37  68  40  11
+#Equipment not available! 23:57:36  37  68  40  11
+#Equipment not available! 23:58:52  37  68  40  11
+#Equipment not available! 00:00:08  37  68  40  11
+#Equipment not available! 00:01:24  37  68  40  11
+#Equipment not available! 00:02:40  37  68  40  11
+#Equipment not available! 00:03:55  37  68  40  11
+#Equipment not available! 00:05:11  37  68  40  11
+#Equipment not available! 00:06:27  37  68  40  11
+#Equipment not available! 00:07:43  37  68  40  11
+#Equipment not available! 00:08:59  37  68  40  11
+#Equipment not available! 00:10:14  37  68  40  11
+#Equipment not available! 00:11:30  37  68  40  11
+#Equipment not available! 00:12:46  37  68  40  11
+#Equipment not available! 00:14:02  37  68  40  11
+#Equipment not available! 00:15:18  37  68  40  11
+#Equipment not available! 00:16:33  37  68  40  11
+#Equipment not available! 00:17:49  37  68  40  11
+#Equipment not available! 00:19:05  37  68  40  11
+#Equipment not available! 00:20:21  37  68  40  11
+#Equipment not available! 00:21:37  37  68  40  11
+#Equipment not available! 00:22:52  37  68  40  11
+#Equipment not available! 00:24:08  37  68  40  11
+#Equipment not available! 00:25:24  37  68  40  11
+#Equipment not available! 00:26:40  37  68  40  11
+#Equipment not available! 00:27:55  37  68  40  11
+#Equipment not available! 00:29:11  37  68  40  11
+#Equipment not available! 00:30:27  37  68  40  11
+#Equipment not available! 00:31:43  37  68  40  11
+#Equipment not available! 00:32:59  37  68  40  11
+#Equipment not available! 00:34:14  37  68  40  11
+#Equipment not available! 00:35:30  37  68  40  11
+#Equipment not available! 00:36:46  37  68  40  11
+#Equipment not available! 00:38:02  37  68  40  11
+#Equipment not available! 00:39:18  37  68  40  11
+#Equipment not available! 00:40:33  37  68  40  11
+#Equipment not available! 00:41:49  37  68  40  11
+#Equipment not available! 00:43:05  37  68  40  11
+#Equipment not available! 00:44:21  37  68  40  11
+#Equipment not available! 00:45:37  37  68  40  11
+#Equipment not available! 00:46:52  37  68  40  11
+#Equipment not available! 00:48:08  37  68  40  11
+#Equipment not available! 00:49:24  37  68  40  11
+#Equipment not available! 00:50:40  37  68  40  11
+#Equipment not available! 00:51:56  37  68  40  11
+#Equipment not available! 00:53:11  37  68  40  11
+#Equipment not available! 00:54:27  37  68  40  11
+#Equipment not available! 00:55:43  37  68  40  11
+#Equipment not available! 00:56:59  37  68  40  11
+#Equipment not available! 00:58:15  37  68  40  11
+#Equipment not available! 00:59:30  37  68  40  11
+#Equipment not available! 01:00:46  37  68  40  11
+#Equipment not available! 01:02:02  37  68  40  11
+#Equipment not available! 01:03:18  37  68  40  11
+#Equipment not available! 01:04:34  37  68  40  11
+#Equipment not available! 01:05:49  37  68  40  11
+#Equipment not available! 01:07:05  37  68  40  11
+#Equipment not available! 01:08:21  37  68  40  11
+#Equipment not available! 01:09:37  37  68  40  11
+#Equipment not available! 01:10:53  37  68  40  11
+#Equipment not available! 01:12:08  37  68  40  11
+#Equipment not available! 01:13:24  37  68  40  11
+#Equipment not available! 01:14:40  37  68  40  11
+#Equipment not available! 01:15:56  37  68  40  11
+#Equipment not available! 01:17:12  37  68  40  11
+#Equipment not available! 01:18:27  37  68  40  11
+#Equipment not available! 01:19:43  37  68  40  11
+#Equipment not available! 01:20:59  37  68  40  11
+#Equipment not available! 01:22:15  37  68  40  11
+#Equipment not available! 01:23:31  37  68  40  11
+#Equipment not available! 01:24:46  37  68  40  11
+#Equipment not available! 01:26:02  37  68  40  11
+#Equipment not available! 01:27:18  37  68  40  11
+#Equipment not available! 01:28:34  37  68  40  11
+#Equipment not available! 01:29:50  37  68  40  11
+#Equipment not available! 01:31:05  37  68  40  11
+#Equipment not available! 01:32:21  37  68  40  11
+#Equipment not available! 01:33:37  37  68  40  11
+#Equipment not available! 01:34:53  37  68  40  11
+#Equipment not available! 01:36:09  37  68  40  11
+#Equipment not available! 01:37:24  37  68  40  11
+#Equipment not available! 01:38:40  37  68  40  11
+#Equipment not available! 01:39:56  37  68  40  11
+#Equipment not available! 01:41:12  37  68  40  11
+#Equipment not available! 01:42:28  37  68  40  11
+#Equipment not available! 01:43:43  37  68  40  11
+#Equipment not available! 01:44:59  37  68  40  11
+#Equipment not available! 01:46:15  37  68  40  11
+#Equipment not available! 01:47:31  37  68  40  11
+#Equipment not available! 01:48:47  37  68  40  11
+#Equipment not available! 01:50:02  37  68  40  11
+#Equipment not available! 01:51:18  37  68  40  11
+#Equipment not available! 01:52:34  37  68  40  11
+#Equipment not available! 01:53:50  37  68  40  11
+#Equipment not available! 01:55:06  37  68  40  11
+#Equipment not available! 01:56:21  37  68  40  11
+#Equipment not available! 01:57:37  37  68  40  11
+#Equipment not available! 01:58:53  37  68  40  11
+#Equipment not available! 02:00:09  37  68  40  11
+#Equipment not available! 02:01:24  37  68  40  11
+#Equipment not available! 02:02:40  37  68  40  11
+#Equipment not available! 02:03:56  37  68  40  11
+#Equipment not available! 02:05:12  37  68  40  11
+#Equipment not available! 02:06:28  37  68  40  11
+#Equipment not available! 02:07:43  37  68  40  11
+#Equipment not available! 02:08:59  37  68  40  11
+#Equipment not available! 02:10:15  37  68  40  11
+#Equipment not available! 02:11:31  37  68  40  11
+#Equipment not available! 02:12:47  37  68  40  11
+#Equipment not available! 02:14:02  37  68  40  11
+#Equipment not available! 02:15:18  37  68  40  11
+#Equipment not available! 02:16:34  37  68  40  11
+#Equipment not available! 02:17:50  37  68  40  11
+#Equipment not available! 02:19:06  37  68  40  11
+#Equipment not available! 02:20:21  37  68  40  11
+#Equipment not available! 02:21:37  37  68  40  11
+#Equipment not available! 02:22:53  37  68  40  11
+#Equipment not available! 02:24:09  37  68  40  11
+#Equipment not available! 02:25:25  37  68  40  11
+#Equipment not available! 02:26:40  37  68  40  11
+#Equipment not available! 02:27:56  37  68  40  11
+#Equipment not available! 02:29:12  37  68  40  11
+#Equipment not available! 02:30:28  37  68  40  11
+#Equipment not available! 02:31:44  37  68  40  11
+#Equipment not available! 02:32:59  37  68  40  11
+#Equipment not available! 02:34:15  37  68  40  11
+#Equipment not available! 02:35:31  37  68  40  11
+#Equipment not available! 02:36:47  37  68  40  11
+#Equipment not available! 02:38:03  37  68  40  11
+#Equipment not available! 02:39:18  37  68  40  11
+#Equipment not available! 02:40:34  37  68  40  11
+#Equipment not available! 02:41:50  37  68  40  11
+#Equipment not available! 02:43:06  37  68  40  11
+#Equipment not available! 02:44:22  37  68  40  11
+#Equipment not available! 02:45:37  37  68  40  11
+#Equipment not available! 02:46:53  37  68  40  11
+#Equipment not available! 02:48:09  37  68  40  11
+#Equipment not available! 02:49:25  37  68  40  11
+#Equipment not available! 02:50:41  37  68  40  11
+#Equipment not available! 02:51:56  37  68  40  11
+#Equipment not available! 02:53:12  37  68  40  11
+#Equipment not available! 02:54:28  37  68  40  11
+#Equipment not available! 02:55:44  37  68  40  11
+#Equipment not available! 02:57:00  37  68  40  11
+#Equipment not available! 02:58:15  37  68  40  11
+#Equipment not available! 02:59:31  37  68  40  11
+#Equipment not available! 03:00:47  37  68  40  11
+#Equipment not available! 03:02:03  37  68  40  11
+#Equipment not available! 03:03:19  37  68  40  11
+#Equipment not available! 03:04:34  37  68  40  11
+#Equipment not available! 03:05:50  37  68  40  11
+#Equipment not available! 03:07:06  37  68  40  11
+#Equipment not available! 03:08:22  37  68  40  11
+#Equipment not available! 03:09:38  37  68  40  11
+#Equipment not available! 03:10:53  37  68  40  11
+#Equipment not available! 03:12:09  37  68  40  11
+#Equipment not available! 03:13:25  37  68  40  11
+#Equipment not available! 03:14:41  37  68  40  11
+#Equipment not available! 03:15:57  37  68  40  11
+#Equipment not available! 03:17:12  37  68  40  11
+#Equipment not available! 03:18:28  37  68  40  11
+#Equipment not available! 03:19:44  37  68  40  11
+#Equipment not available! 03:21:00  37  68  40  11
+#Equipment not available! 03:22:16  37  68  40  11
+#Equipment not available! 03:23:31  37  68  40  11
+#Equipment not available! 03:24:47  37  68  40  11
+#Equipment not available! 03:26:03  37  68  40  11
+#Equipment not available! 03:27:19  37  68  40  11
+#Equipment not available! 03:28:34  37  68  40  11
+#Equipment not available! 03:29:50  37  68  40  11
+#Equipment not available! 03:31:06  37  68  40  11
+#Equipment not available! 03:32:22  37  68  40  11
+#Equipment not available! 03:33:38  37  68  40  11
+#Equipment not available! 03:34:53  37  68  40  11
+#Equipment not available! 03:36:09  37  68  40  11
+#Equipment not available! 03:37:25  37  68  40  11
+#Equipment not available! 03:38:41  37  68  40  11
+#Equipment not available! 03:39:57  37  68  40  11
+#Equipment not available! 03:41:12  37  68  40  11
+#Equipment not available! 03:42:28  37  68  40  11
+#Equipment not available! 03:43:44  37  68  40  11
+#Equipment not available! 03:45:00  37  68  40  11
+#Equipment not available! 03:46:16  37  68  40  11
+#Equipment not available! 03:47:31  37  68  40  11
+#Equipment not available! 03:48:47  37  68  40  11
+#Equipment not available! 03:50:03  37  68  40  11
+#Equipment not available! 03:51:19  37  68  40  11
+#Equipment not available! 03:52:35  37  68  40  11
+#Equipment not available! 03:53:50  37  68  40  11
+#Equipment not available! 03:55:06  37  68  40  11
+#Equipment not available! 03:56:22  37  68  40  11
+#Equipment not available! 03:57:38  37  68  40  11
+#Equipment not available! 03:58:54  37  68  40  11
+#Equipment not available! 04:00:09  37  68  40  11
+#Equipment not available! 04:01:25  37  68  40  11
+#Equipment not available! 04:02:41  37  68  40  11
+#Equipment not available! 04:03:57  37  68  40  11
+#Equipment not available! 04:05:13  37  68  40  11
+#Equipment not available! 04:06:28  37  68  40  11
+#Equipment not available! 04:07:44  37  68  40  11
+#Equipment not available! 04:09:00  37  68  40  11
+#Equipment not available! 04:10:16  37  68  40  11
+#Equipment not available! 04:11:32  37  68  40  11
+#Equipment not available! 04:12:47  37  68  40  11
+#Equipment not available! 04:14:03  37  68  40  11
+#Equipment not available! 04:15:19  37  68  40  11
+#Equipment not available! 04:16:35  37  68  40  11
+#Equipment not available! 04:17:51  37  68  40  11
+#Equipment not available! 04:19:06  37  68  40  11
+#Equipment not available! 04:20:22  37  68  40  11
+#Equipment not available! 04:21:38  37  68  40  11
+#Equipment not available! 04:22:54  37  68  40  11
+#Equipment not available! 04:24:10  37  68  40  11
+#Equipment not available! 04:25:25  37  68  40  11
+#Equipment not available! 04:26:41  37  68  40  11
+#Equipment not available! 04:27:57  37  68  40  11
+#Equipment not available! 04:29:13  37  68  40  11
+#Equipment not available! 04:30:29  37  68  40  11
+#Equipment not available! 04:31:44  37  68  40  11
+#Equipment not available! 04:33:00  37  68  40  11
+#Equipment not available! 04:34:16  37  68  40  11
+#Equipment not available! 04:35:32  37  68  40  11
+#Equipment not available! 04:36:48  37  68  40  11
+#Equipment not available! 04:38:03  37  68  40  11
+#Equipment not available! 04:39:19  37  68  40  11
+#Equipment not available! 04:40:35  37  68  40  11
+#Equipment not available! 04:41:51  37  68  40  11
+#Equipment not available! 04:43:07  37  68  40  11
+#Equipment not available! 04:44:22  37  68  40  11
+#Equipment not available! 04:45:38  37  68  40  11
+#Equipment not available! 04:46:54  37  68  40  11
+#Equipment not available! 04:48:10  37  68  40  11
+#Equipment not available! 04:49:26  37  68  40  11
+#Equipment not available! 04:50:41  37  68  40  11
+#Equipment not available! 04:51:57  37  68  40  11
+#Equipment not available! 04:53:13  37  68  40  11
+#Equipment not available! 04:54:29  37  68  40  11
+#Equipment not available! 04:55:44  37  68  40  11
+#Equipment not available! 04:57:00  37  68  40  11
+#Equipment not available! 04:58:16  37  68  40  11
+#Equipment not available! 04:59:32  37  68  40  11
+#Equipment not available! 05:00:48  37  68  40  11
+#Equipment not available! 05:02:03  37  68  40  11
+#Equipment not available! 05:03:19  37  68  40  11
+#Equipment not available! 05:04:35  37  68  40  11
+#Equipment not available! 05:05:51  37  68  40  11
+#Equipment not available! 05:07:07  37  68  40  11
+#Equipment not available! 05:08:22  37  68  40  11
+#Equipment not available! 05:09:38  37  68  40  11
+#Equipment not available! 05:10:54  37  68  40  11
+#Equipment not available! 05:12:10  37  68  40  11
+#Equipment not available! 05:13:26  37  68  40  11
+#Equipment not available! 05:14:41  37  68  40  11
+#Equipment not available! 05:15:57  37  68  40  11
+#Equipment not available! 05:17:13  37  68  40  11
+#Equipment not available! 05:18:29  37  68  40  11
+#Equipment not available! 05:19:45  37  68  40  11
+#Equipment not available! 05:21:00  37  68  40  11
+#Equipment not available! 05:22:16  37  68  40  11
+#Equipment not available! 05:23:32  37  68  40  11
+#Equipment not available! 05:24:48  37  68  40  11
+#Equipment not available! 05:26:04  37  68  40  11
+#Equipment not available! 05:27:19  37  68  40  11
+#Equipment not available! 05:28:35  37  68  40  11
+#Equipment not available! 05:29:51  37  68  40  11
+#Equipment not available! 05:31:07  37  68  40  11
+#Equipment not available! 05:32:23  37  68  40  11
+#Equipment not available! 05:33:38  37  68  40  11
+#Equipment not available! 05:34:54  37  68  40  11
+#Equipment not available! 05:36:10  37  68  40  11
+#Equipment not available! 05:37:26  37  68  40  11
+#Equipment not available! 05:38:42  37  68  40  11
+#Equipment not available! 05:39:57  37  68  40  11
+#Equipment not available! 05:41:13  37  68  40  11
+#Equipment not available! 05:42:29  37  68  40  11
+#Equipment not available! 05:43:45  37  68  40  11
+#Equipment not available! 05:45:01  37  68  40  11
+#Equipment not available! 05:46:16  37  68  40  11
+#Equipment not available! 05:47:32  37  68  40  11
+#Equipment not available! 05:48:48  37  68  40  11
+#Equipment not available! 05:50:04  37  68  40  11
+#Equipment not available! 05:51:20  37  68  40  11
+#Equipment not available! 05:52:35  37  68  40  11
+#Equipment not available! 05:53:51  37  68  40  11
+#Equipment not available! 05:55:07  37  68  40  11
+#Equipment not available! 05:56:23  37  68  40  11
+#Equipment not available! 05:57:39  37  68  40  11
+#Equipment not available! 05:58:54  37  68  40  11
+#Equipment not available! 06:00:10  37  68  40  11
+#Equipment not available! 06:01:26  37  68  40  11
+#Equipment not available! 06:02:42  37  68  40  11
+#Equipment not available! 06:03:58  37  68  40  11
+#Equipment not available! 06:05:13  37  68  40  11
+#Equipment not available! 06:06:29  37  68  40  11
+#Equipment not available! 06:07:45  37  68  40  11
+#Equipment not available! 06:09:01  37  68  40  11
+#Equipment not available! 06:10:17  37  68  40  11
+#Equipment not available! 06:11:32  37  68  40  11
+#Equipment not available! 06:12:48  37  68  40  11
+#Equipment not available! 06:14:04  37  68  40  11
+#Equipment not available! 06:15:20  37  68  40  11
+#Equipment not available! 06:16:36  37  68  40  11
+#Equipment not available! 06:17:51  37  68  40  11
+#Equipment not available! 06:19:07  37  68  40  11
+#Equipment not available! 06:20:23  37  68  40  11
+#Equipment not available! 06:21:39  37  68  40  11
+#Equipment not available! 06:22:55  37  68  40  11
+#Equipment not available! 06:24:10  37  68  40  11
+#Equipment not available! 06:25:26  37  68  40  11
+#Equipment not available! 06:26:42  37  68  40  11
+#Equipment not available! 06:27:58  37  68  40  11
+#Equipment not available! 06:29:13  37  68  40  11
+#Equipment not available! 06:30:29  37  68  40  11
+#Equipment not available! 06:31:45  37  68  40  11
+#Equipment not available! 06:33:01  37  68  40  11
+#Equipment not available! 06:34:17  37  68  40  11
+#Equipment not available! 06:35:32  37  68  40  11
+#Equipment not available! 06:36:48  37  68  40  11
+#Equipment not available! 06:38:04  37  68  40  11
+#Equipment not available! 06:39:20  37  68  40  11
+#Equipment not available! 06:40:36  37  68  40  11
+#Equipment not available! 06:41:51  37  68  40  11
+#Equipment not available! 06:43:07  37  68  40  11
+#Equipment not available! 06:44:23  37  68  40  11
+#Equipment not available! 06:45:39  37  68  40  11
+#Equipment not available! 06:46:55  37  68  40  11
+#Equipment not available! 06:48:10  37  68  40  11
+#Equipment not available! 06:49:26  37  68  40  11
+#Equipment not available! 06:50:42  37  68  40  11
+#Equipment not available! 06:51:58  37  68  40  11
+#Equipment not available! 06:53:14  37  68  40  11
+#Equipment not available! 06:54:29  37  68  40  11
+#Equipment not available! 06:55:45  37  68  40  11
+#Equipment not available! 06:57:01  37  68  40  11
+#Equipment not available! 06:58:17  37  68  40  11
+#Equipment not available! 06:59:33  37  68  40  11
+#Equipment not available! 07:00:48  37  68  40  11
+#Equipment not available! 07:02:04  37  68  40  11
+#Equipment not available! 07:03:20  37  68  40  11
+#Equipment not available! 07:04:36  37  68  40  11
+#Equipment not available! 07:05:52  37  68  40  11
+#Equipment not available! 07:07:07  37  68  40  11
+#Equipment not available! 07:08:23  37  68  40  11
+#Equipment not available! 07:09:39  37  68  40  11
+#Equipment not available! 07:10:55  37  68  40  11
+#Equipment not available! 07:12:11  37  68  40  11
+#Equipment not available! 07:13:26  37  68  40  11
+#Equipment not available! 07:14:42  37  68  40  11
+#Equipment not available! 07:15:58  37  68  40  11
+#Equipment not available! 07:17:14  37  68  40  11
+#Equipment not available! 07:18:30  37  68  40  11
+#Equipment not available! 07:19:45  37  68  40  11
+#Equipment not available! 07:21:01  37  68  40  11
+#Equipment not available! 07:22:17  37  68  40  11
+#Equipment not available! 07:23:33  37  68  40  11
+#Equipment not available! 07:24:49  37  68  40  11
+#Equipment not available! 07:26:04  37  68  40  11
+#Equipment not available! 07:27:20  37  68  40  11
+#Equipment not available! 07:28:36  37  68  40  11
+#Equipment not available! 07:29:52  37  68  40  11
+#Equipment not available! 07:31:08  37  68  40  11
+#Equipment not available! 07:32:23  37  68  40  11
+#Equipment not available! 07:33:39  37  68  40  11
+#Equipment not available! 07:34:55  37  68  40  11
+#Equipment not available! 07:36:11  37  68  40  11
+#Equipment not available! 07:37:27  37  68  40  11
+#Equipment not available! 07:38:42  37  68  40  11
+#Equipment not available! 07:39:58  37  68  40  11
+#Equipment not available! 07:41:14  37  68  40  11
+#Equipment not available! 07:42:30  37  68  40  11
+#Equipment not available! 07:43:46  37  68  40  11
+#Equipment not available! 07:45:01  37  68  40  11
+#Equipment not available! 07:46:17  37  68  40  11
+#Equipment not available! 07:47:33  37  68  40  11
+#Equipment not available! 07:48:49  37  68  40  11
+#Equipment not available! 07:50:05  37  68  40  11
+#Equipment not available! 07:51:20  37  68  40  11
+#Equipment not available! 07:52:36  37  68  40  11
+#Equipment not available! 07:53:52  37  68  40  11
+#Equipment not available! 07:55:08  37  68  40  11
+#Equipment not available! 07:56:23  37  68  40  11
+#Equipment not available! 07:57:39  37  68  40  11
+#Equipment not available! 07:58:55  37  68  40  11
+#Equipment not available! 08:00:11  37  68  40  11
+#Equipment not available! 08:01:27  37  68  40  11
+#Equipment not available! 08:02:42  37  68  40  11
+#Equipment not available! 08:03:58  37  68  40  11
+#Equipment not available! 08:05:14  37  68  40  11
+#Equipment not available! 08:06:30  37  68  40  11
+#Equipment not available! 08:07:46  37  68  40  11
+#Equipment not available! 08:09:01  37  68  40  11
+#Equipment not available! 08:10:17  37  68  40  11
+#Equipment not available! 08:11:33  37  68  40  11
+#Equipment not available! 08:12:49  37  68  40  11
+#Equipment not available! 08:14:05  37  68  40  11
+#Equipment not available! 08:15:20  37  68  40  11
+#Equipment not available! 08:16:36  37  68  40  11
+#Equipment not available! 08:17:52  37  68  40  11
+#Equipment not available! 08:19:08  37  68  40  11
+#Equipment not available! 08:20:24  37  68  40  11
+#Equipment not available! 08:21:39  37  68  40  11
+#Equipment not available! 08:22:55  37  68  40  11
+#Equipment not available! 08:24:11  37  68  40  11
+#Equipment not available! 08:25:27  37  68  40  11
+#Equipment not available! 08:26:43  37  68  40  11
+#Equipment not available! 08:27:58  37  68  40  11
+#Equipment not available! 08:29:14  37  68  40  11
+#Equipment not available! 08:30:30  37  68  40  11
+#Equipment not available! 08:31:46  37  68  40  11
+#Equipment not available! 08:33:02  37  68  40  11
+#Equipment not available! 08:34:17  37  68  40  11
+#Equipment not available! 08:35:33  37  68  40  11
+#Equipment not available! 08:36:49  37  68  40  11
+#Equipment not available! 08:38:05  37  68  40  11
+#Equipment not available! 08:39:21  37  68  40  11
+#Equipment not available! 08:40:36  37  68  40  11
+#Equipment not available! 08:41:52  37  68  40  11
+#Equipment not available! 08:43:08  37  68  40  11
+#Equipment not available! 08:44:24  37  68  40  11
+#Equipment not available! 08:45:40  37  68  40  11
+#Equipment not available! 08:46:55  37  68  40  11
+#Equipment not available! 08:48:11  37  68  40  11
+#Equipment not available! 08:49:27  37  68  40  11
+#Equipment not available! 08:50:43  37  68  40  11
+#Equipment not available! 08:51:59  37  68  40  11
+#Equipment not available! 08:53:14  37  68  40  11
+#Equipment not available! 08:54:30  37  68  40  11
+#Equipment not available! 08:55:46  37  68  40  11
+#Equipment not available! 08:57:02  37  68  40  11
+#Equipment not available! 08:58:18  37  68  40  11
+#Equipment not available! 08:59:33  37  68  40  11
+#Equipment not available! 09:00:49  37  68  40  11
+#Equipment not available! 09:02:05  37  68  40  11
+#Equipment not available! 09:03:21  37  68  40  11
+#Equipment not available! 09:04:37  37  68  40  11
+#Equipment not available! 09:05:52  37  68  40  11
+#Equipment not available! 09:07:08  37  68  40  11
+#Equipment not available! 09:08:24  37  68  40  11
+#Equipment not available! 09:09:40  37  68  40  11
+#Equipment not available! 09:10:56  37  68  40  11
+#Equipment not available! 09:12:11  37  68  40  11
+#Equipment not available! 09:13:27  37  68  40  11
+#Equipment not available! 09:14:43  37  68  40  11
+#Equipment not available! 09:15:59  37  68  40  11
+#Equipment not available! 09:17:15  37  68  40  11
+#Equipment not available! 09:18:30  37  68  40  11
+#Equipment not available! 09:19:46  37  68  40  11
+#Equipment not available! 09:21:02  37  68  40  11
+#Equipment not available! 09:22:18  37  68  40  11
+#Equipment not available! 09:23:34  37  68  40  11
+#Equipment not available! 09:24:49  37  68  40  11
+#Equipment not available! 09:26:05  37  68  40  11
+#Equipment not available! 09:27:21  37  68  40  11
+#Equipment not available! 09:28:37  37  68  40  11
+#Equipment not available! 09:29:52  37  68  40  11
+#Equipment not available! 09:31:08  37  68  40  11
+#Equipment not available! 09:32:24  37  68  40  11
+#Equipment not available! 09:33:40  37  68  40  11
+#Equipment not available! 09:34:56  37  68  40  11
+#Equipment not available! 09:36:11  37  68  40  11
+#Equipment not available! 09:37:27  37  68  40  11
+#Equipment not available! 09:38:43  37  68  40  11
+#Equipment not available! 09:39:59  37  68  40  11
+#Equipment not available! 09:41:15  37  68  40  11
+#Equipment not available! 09:42:30  37  68  40  11
+#Equipment not available! 09:43:46  37  68  40  11
+#Equipment not available! 09:45:02  37  68  40  11
+#Equipment not available! 09:46:18  37  68  40  11
+#Equipment not available! 09:47:34  37  68  40  11
+#Equipment not available! 09:48:49  37  68  40  11
+#Equipment not available! 09:50:05  37  68  40  11
+#Equipment not available! 09:51:21  37  68  40  11
+#Equipment not available! 09:52:37  37  68  40  11
+#Equipment not available! 09:53:53  37  68  40  11
+#Equipment not available! 09:55:08  37  68  40  11
+#Equipment not available! 09:56:24  37  68  40  11
+#Equipment not available! 09:57:40  37  68  40  11
+#Equipment not available! 09:58:56  37  68  40  11
+#Equipment not available! 10:00:12  37  68  40  11
+#Equipment not available! 10:01:27  37  68  40  11
+#Equipment not available! 10:02:43  37  68  40  11
+#Equipment not available! 10:03:59  37  68  40  11
+#Equipment not available! 10:05:15  37  68  40  11
+#Equipment not available! 10:06:31  37  68  40  11
+#Equipment not available! 10:07:46  37  68  40  11
+#Equipment not available! 10:09:02  37  68  40  11
+#Equipment not available! 10:10:18  37  68  40  11
+#Equipment not available! 10:11:34  37  68  40  11
+#Equipment not available! 10:12:50  37  68  40  11
+#Equipment not available! 10:14:05  37  68  40  11
+#Equipment not available! 10:15:21  37  68  40  11
+#Equipment not available! 10:16:37  37  68  40  11
+#Equipment not available! 10:17:53  37  68  40  11
+#Equipment not available! 10:19:09  37  68  40  11
+#Equipment not available! 10:20:24  37  68  40  11
+#Equipment not available! 10:21:40  37  68  40  11
+#Equipment not available! 10:22:56  37  68  40  11
+#Equipment not available! 10:24:12  37  68  40  11
+#Equipment not available! 10:25:28  37  68  40  11
+#Equipment not available! 10:26:43  37  68  40  11
+#Equipment not available! 10:27:59  37  68  40  11
+#Equipment not available! 10:29:15  37  68  40  11
+#Equipment not available! 10:30:31  37  68  40  11
+#Equipment not available! 10:31:47  37  68  40  11
+#Equipment not available! 10:33:02  37  68  40  11
+#Equipment not available! 10:34:18  37  68  40  11
+#Equipment not available! 10:35:34  37  68  40  11
+#Equipment not available! 10:36:50  37  68  40  11
+#Equipment not available! 10:38:06  37  68  40  11
+#Equipment not available! 10:39:21  37  68  40  11
+#Equipment not available! 10:40:37  37  68  40  11
+#Equipment not available! 10:41:53  37  68  40  11
+#Equipment not available! 10:43:09  37  68  40  11
+#Equipment not available! 10:44:25  37  68  40  11
+#Equipment not available! 10:45:40  37  68  40  11
+#Equipment not available! 10:46:56  37  68  40  11
+#Equipment not available! 10:48:12  37  68  40  11
+#Equipment not available! 10:49:28  37  68  40  11
+#Equipment not available! 10:50:44  37  68  40  11
+#Equipment not available! 10:51:59  37  68  40  11
+#Equipment not available! 10:53:15  37  68  40  11
+#Equipment not available! 10:54:31  37  68  40  11
+#Equipment not available! 10:55:47  37  68  40  11
+#Equipment not available! 10:57:02  37  68  40  11
+#Equipment not available! 10:58:18  37  68  40  11
+#Equipment not available! 10:59:34  37  68  40  11
+#Equipment not available! 11:00:50  37  68  40  11
+#Equipment not available! 11:02:06  37  68  40  11
+#Equipment not available! 11:03:21  37  68  40  11
+#Equipment not available! 11:04:37  37  68  40  11
+#Equipment not available! 11:05:53  37  68  40  11
+#Equipment not available! 11:07:09  37  68  40  11
+#Equipment not available! 11:08:25  37  68  40  11
+#Equipment not available! 11:09:40  37  68  40  11
+#Equipment not available! 11:10:56  37  68  40  11
+#Equipment not available! 11:12:12  37  68  40  11
+#Equipment not available! 11:13:28  37  68  40  11
+#Equipment not available! 11:14:44  37  68  40  11
+#Equipment not available! 11:15:59  37  68  40  11
+#Equipment not available! 11:17:15  37  68  40  11
+#Equipment not available! 11:18:31  37  68  40  11
+#Equipment not available! 11:19:47  37  68  40  11
+#Equipment not available! 11:21:03  37  68  40  11
+#Equipment not available! 11:22:18  37  68  40  11
+#Equipment not available! 11:23:34  37  68  40  11
+#Equipment not available! 11:24:50  37  68  40  11
+#Equipment not available! 11:26:06  37  68  40  11
